@@ -18,3 +18,7 @@ p{
 p {
     color:green;
 }
+
+li{
+    list-style: none;
+}
