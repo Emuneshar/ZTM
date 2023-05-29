@@ -6,9 +6,9 @@ body{
     background-size: cover;
 }
 h2{
-    color:red;
+    color:rgb(36, 108, 96);
     text-align: center;
-    border: 5px solid purple;
+    border: 5px solid rgb(0, 54, 45);
     cursor: pointer;
 }
 
