@@ -1,5 +1,6 @@
 body{
-    background-image: url(veronica-wu.jpg)
+    background-image: url(veronica-wu.jpg);
+    background-size: cover;
 }
 
 header{
